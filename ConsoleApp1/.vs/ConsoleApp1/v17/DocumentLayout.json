@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\task26.03\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{544C4837-2444-4734-B0B4-C523522C2A79}|ConsoleApp1.csproj|c:\\users\\asus\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{544C4837-2444-4734-B0B4-C523522C2A79}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56F7610D-A8A7-4BC3-8999-528C2DF556D7}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\task26.03\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7610D-A8A7-4BC3-8999-528C2DF556D7}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\task26.03\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\task26.03\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "ViewState": "AQIAANgAAAAAAAAAAAAUwN0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T18:39:51.513Z",
+              "WhenOpened": "2024-03-26T08:08:52.351Z",
               "EditorCaption": ""
             }
           ]
